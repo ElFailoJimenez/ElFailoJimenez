@@ -6,6 +6,6 @@
   - [osTicket: Post-Installation Configuration](https://github.com/ElFailoJimenez/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ElFailoJimenez/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Creating an Azure Account ➔ Establishing a Virtual Machine](https://github.com/ElFailoJimenez/azure-start)
+  - [Creating a Virtual Machine in Azure](https://github.com/ElFailoJimenez/azure-start)
   - [Configuring Active Directory within Azure VMs](https://github.com/ElFailoJimenez/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ElFailoJimenez/azure-network-protocols)
